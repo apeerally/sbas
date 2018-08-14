@@ -112,6 +112,7 @@ public class MainActivity extends AppCompatActivity {
                 super.onLocationResult(result);
                 //mCurrentLocation = locationResult.getLastLocation();
                 mCurrentLocation = result.getLocations().get(0);
+                
 
                 if(mCurrentLocation!=null)
                 {
