@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1057615173728",
+    "firebase_url": "https://smartpassenger-2e315.firebaseio.com",
+    "project_id": "smartpassenger-2e315",
+    "storage_bucket": "smartpassenger-2e315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057615173728:android:cb2c44d1cf8d4af3",
+        "android_client_info": {
+          "package_name": "com.example.bmt.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057615173728-8sldvhar2879ce0leo02sqirvak4hmvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bmt.myapplication",
+            "certificate_hash": "cf3babcada79fbce42b14b9d33dd7cd4251532dc"
+          }
+        },
+        {
+          "client_id": "1057615173728-4hlo05m84k463i5k7o49o6pta9ii7d1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgaYsRDNTlu6uchPT1PZuGgETAX0xq7iU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057615173728-4hlo05m84k463i5k7o49o6pta9ii7d1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
