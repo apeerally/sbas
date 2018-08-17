@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
      * FusedLocationProviderApi Save request parameters
      */
     private static LocationRequest mLocationRequest;
-    private string name;
+
     DatabaseReference reference;
     /**
      * Provide callbacks for location events.
