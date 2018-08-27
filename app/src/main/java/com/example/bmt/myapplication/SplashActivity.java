@@ -67,7 +67,7 @@ public class SplashActivity extends AppCompatActivity {
     @Override
     protected void onRestart(){
         super.onRestart();
-        startActivity(new Intent(this, SplashActivity.class));
+        startActivity(new Intent(SplashActivity.this, MainActivity.class));
         finish();
     }
 }
